@@ -6,7 +6,7 @@ The list contains open-source tools written by securtity researchers, all the cr
 **Table of content:**
 
 ```css
-<h1 style="color:blue;">Azure</h1>
+# 🌐 Azure 🌐
 ```
 * [o365reacon](./Azure/o365reacon.md)
 * [PowerZure](./Azure/PowerZure.md)
